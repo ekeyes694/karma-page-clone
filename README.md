@@ -6,3 +6,7 @@ The links in the navigation menu do not work nor do the links in the contact sec
 for practice and layout purposes.
 
 **Made for educational purposes through Thinkful Bootcamp**
+
+## Link to Website
+
+http://ekeyes694.github.io/karma-page-clone/
